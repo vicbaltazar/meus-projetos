@@ -40,7 +40,7 @@ Gosto de aprender coisas novas e transformar ideias em código. 💡
 
 ## 📫 Onde me encontrar
 
-- 💼 [LinkedIn](linkedin.com/in/vitória-baltazar-3944a72ab)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vit%C3%B3ria-baltazar-3944a72ab/)
 - 🐙 [GitHub](https://github.com/vicbaltazar)
 
 ---
