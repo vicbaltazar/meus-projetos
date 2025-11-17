@@ -28,6 +28,9 @@ Este projeto faz parte do meu aprendizado em *Python*, JSON e desenvolvimento de
 | dados.json | Contém informações pessoais e dados de perfil |
 | musica.py | Script com preferências musicais 🎵 |
 | calendar_month.py | Exemplo de manipulação de datas e meses 📅 |
+| amor_doce.py | Banco de Dados usando personagens de um jogo 🎮 |
+| recomendação.musica.py | Sistema de recomendação de música 📻 |
+| musicas.selvagens.py | Sistema de recomedação com JSON 🎈 |
 
 ---
 
