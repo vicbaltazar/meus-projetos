@@ -5,6 +5,21 @@ Este projeto faz parte do meu desenvolvimento em Python, JSON e fundamentos de s
 
 ---
 
+## 🌋 Sobre Mim
+
+Eu sou a Vitória Baltazar, uma desenvolvedora iniciante e estudante de Análise e Desenvolvimento de Sistemas explorando o vasto território da tecnologia.
+Apaixonada por dinossauros, programação, música e por aprender coisas novas.
+Todo dia tentando evoluir — igual um pequeno dino descobrindo um novo mundo. 🦕✨
+
+---
+
+## 🦴 Onde me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vit%C3%B3ria-baltazar-3944a72ab/)
+- 🐙 [GitHub](https://github.com/vicbaltazar)
+
+---
+
 ## 🎯 Objetivos do Projeto
 
 Aprimorar conhecimentos em Python
@@ -32,21 +47,6 @@ Construir um portfólio consistente rumo ao meu primeiro estágio na área de TI
 | recomendação.musica.py | Sistema de recomendação de música 🎵 |
 | musicas.selvagens.py | Sistema de recomedação com JSON 🦖 |
 | kanban.json | Kanban temático jurássico para organização de tarefas 🦕 |
-
----
-
-## 🌋 Sobre Mim
-
-Eu sou a Vitória Baltazar, uma desenvolvedora iniciante explorando o vasto território da tecnologia.
-Apaixonada por dinossauros, programação, música e por aprender coisas novas.
-Todo dia tentando evoluir — igual um pequeno dino descobrindo um novo mundo. 🦕✨
-
----
-
-## 🦴 Onde me encontrar
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/vit%C3%B3ria-baltazar-3944a72ab/)
-- 🐙 [GitHub](https://github.com/vicbaltazar)
 
 ---
 
