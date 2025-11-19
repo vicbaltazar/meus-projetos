@@ -30,6 +30,7 @@ Este projeto faz parte do meu aprendizado em *Python*, JSON e desenvolvimento de
 | amor_doce.py | Banco de Dados usando personagens de um jogo 🎮 |
 | recomendação.musica.py | Sistema de recomendação de música 🎵 |
 | musicas.selvagens.py | Sistema de recomedação com JSON 📻 |
+| kanban.json | Kanban com temática jurássica 🦕 |
 
 ---
 
