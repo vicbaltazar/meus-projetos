@@ -22,13 +22,10 @@ Todo dia tentando evoluir, igual um pequeno dino descobrindo um novo mundo. 🦕
 
 ## 🎯 Objetivos do Projeto
 
-•Aprimorar conhecimentos em Python
-
-•Desenvolver lógica de programação e boas práticas
-
-•Criar pequenos sistemas funcionais utilizando JSON
-
-•Construir um portfólio consistente rumo ao meu primeiro estágio na área de TI
+- Aprimorar conhecimentos em Python
+- Desenvolver lógica de programação e boas práticas
+- Criar pequenos sistemas funcionais utilizando JSON
+- Construir um portfólio consistente rumo ao meu primeiro estágio na área de TI
 
 ---
 
