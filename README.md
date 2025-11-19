@@ -9,7 +9,7 @@ Este projeto faz parte do meu desenvolvimento em Python, JSON e fundamentos de s
 
 Eu sou a Vitória Baltazar, uma desenvolvedora iniciante e estudante de Análise e Desenvolvimento de Sistemas explorando o vasto território da tecnologia.
 Apaixonada por dinossauros, programação, música e por aprender coisas novas.
-Todo dia tentando evoluir — igual um pequeno dino descobrindo um novo mundo. 🦕✨
+Todo dia tentando evoluir, igual um pequeno dino descobrindo um novo mundo. 🦕✨
 
 ---
 
