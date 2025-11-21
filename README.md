@@ -1,6 +1,6 @@
 ## 🦖 Jurassic Profile JSON 
 
-Bem-vindo(a) ao repositório meu-perfil-json!
+Bem-vindo(a) ao repositório meus-projetos!
 Este projeto faz parte do meu desenvolvimento em Python, JSON e fundamentos de software, organizado com uma abordagem inspirada no universo jurássico.
 
 ---
