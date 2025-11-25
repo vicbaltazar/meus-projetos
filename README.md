@@ -1,7 +1,7 @@
 ## 🦖 Jurassic Dev Profile 
 
 Bem-vindo(a) ao repositório meus-projetos!
-Este projeto faz parte do meu desenvolvimento em Python, JSON e fundamentos de software, organizado com uma abordagem inspirada no universo jurássico.
+Aqui reúno alguns dos meus primeiros projetos em Python e JSON, organizados com uma abordagem inspirada no universo jurássico, música e até jogos.
 
 ---
 
@@ -55,7 +55,12 @@ Todo dia tentando evoluir, igual um pequeno dino descobrindo um novo mundo. 🦕
 1. Tenha o Python 3 instalado na sua máquina.
 2. Clone este repositório ou faça o download dos arquivos.
 3. No terminal, entre na pasta do projeto:
-4. Execute o arquivo desejado, por exemplo: amor_doce.py
+
+cd meus-projetos
+
+4. Execute o arquivo desejado, por exemplo:
+
+python amor_doce.py
 
 ---
 
