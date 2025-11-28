@@ -1,0 +1,131 @@
+[
+    {
+        "_id": 778,
+    "nome": "Mimikyu",
+    "stats": {
+        "hp": 55,
+        "atk": 90,
+        "def": 80,
+        "sp_atk": 50,
+        "sp_def": 105,
+        "speed": 96
+    },
+    "tipos": ["Fantasmas", "Fada"],
+    "evolucoes": [
+        {
+            "de": "Mimikyu",
+            "para": null
+        }
+    ],
+    "descricao": "Um Pokémon que se disfarça com um pano para esconder sua aparência verdadeira."
+    },
+    {
+        "_id": 708,
+        "nome": "Phantump",
+        "stats": {
+        "hp": 43,
+        "atk": 70,
+        "def": 48,
+        "sp_atk": 50,
+        "sp_def": 60,
+        "speed": 46
+        },
+        "tipos": ["Fantasmas", "Planta"],
+    "evolucoes": [
+        {
+            "de": "Phantump",
+            "para": "Trevenant"
+        }
+    ],
+    "descricao": "Espíritos de crianças perdidas que habitam trancos de árvores."
+    },
+    {
+        "_id": 574,
+        "nome": "Gothita",
+        "stats": {
+        "hp": 45,
+        "atk": 30,
+        "def": 50,
+        "sp_atk": 55,
+        "sp_def": 65,
+        "speed": 45
+        },
+        "tipos": ["Psíquico"],
+    "evolucoes": [
+        {
+            "de": "Gothita",
+            "para": "Gothorita",
+            "nivel": 32
+        }
+    ],
+    "descricao": "Um Pokémon psíquico pequeno que observa fixamente tudo ao seu redor."
+    },
+    {
+        "_id": 575,
+        "nome": "Gothorita",
+        "stats": {
+        "hp": 60,
+        "atk": 45,
+        "def": 70,
+        "sp_atk": 75,
+        "sp_def": 85,
+        "speed": 55
+        },
+        "tipos": ["Psíquico"],
+    "evolucoes": [
+        {
+            "de": "Gothorita",
+            "para": "Gothitelle",
+            "nivel": 41
+        }
+    ],
+    "descricao": "Usa seus poderes para mover objetos e orientar Gothita."
+    },
+    {
+        "_id": 576,
+        "nome": "Gothitelle",
+        "stats": {
+        "hp": 70,
+        "atk": 55,
+        "def": 95,
+        "sp_atk": 95,
+        "sp_def": 110,
+        "speed": 65
+        },
+        "tipos": ["Psíquico"],
+    "evolucoes": [
+        {
+            "de": "Gothita",
+            "para": "Gothorita",
+            "nivel":32
+        },
+        {
+            "de": "Gothorita",
+            "para": "Gothitelle",
+            "nivel": 41
+        }
+    ],
+    "descricao": "Um Pokémon psíquico que prevê o futuro observando o movimento das estrelas."
+    },
+    {
+        "_id": 143,
+        "nome": "Snorlax",
+        "stats": {
+        "hp": 160,
+        "atk": 110,
+        "def": 65,
+        "sp_atk": 65,
+        "sp_def": 110,
+        "speed": 30
+        },
+        "tipos": ["Normal"],
+    "evolucoes": [
+        {
+            "de": "Munchlax",
+            "para": "Snorlax",
+            "condicao": "Subir de nível com alta amizade"
+        }
+    ],
+    "descricao": "Um Pokémon que passa a maior parte do tempo dormindo e só acorda para comer grandes quantidades de comida."
+    }
+]
