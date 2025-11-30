@@ -19,6 +19,9 @@ Este repositório reúne alguns dos meus primeiros projetos e exercícios em **P
 - `Pokedex.json`  
   Arquivo JSON que representa uma pequena Pokédex não relacional, com Pokémon, stats, tipos e evoluções.
 
+  - `pokedex_mongodb.py`  
+  Script em Python que conecta a um banco **MongoDB** local, cria uma coleção `pokemons` e insere uma mini Pokédex NoSQL, permitindo consultas, atualizações e exclusão de documentos.
+
 - `kanban.json`  
   Exemplo de estrutura de quadro Kanban em JSON (colunas, tarefas, status), útil para treinar leitura/escrita de dados.
 
@@ -43,7 +46,7 @@ cd meus-projetos
 
 3. Execute o script desejado:
 
-python Pokedex.json
+python amor_doce.py
 
 ## 📩 Contato
 
